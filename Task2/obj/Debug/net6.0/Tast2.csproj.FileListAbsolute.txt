@@ -1,0 +1,15 @@
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\bin\Debug\net6.0\Tast2.exe
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\bin\Debug\net6.0\Tast2.deps.json
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\bin\Debug\net6.0\Tast2.runtimeconfig.json
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\bin\Debug\net6.0\Tast2.dll
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\bin\Debug\net6.0\Tast2.pdb
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.csproj.AssemblyReference.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.AssemblyInfoInputs.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.AssemblyInfo.cs
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.csproj.CoreCompileInputs.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.dll
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\refint\Tast2.dll
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.pdb
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\Tast2.genruntimeconfig.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task2\obj\Debug\net6.0\ref\Tast2.dll

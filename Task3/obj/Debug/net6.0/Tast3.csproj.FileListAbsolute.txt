@@ -1,0 +1,15 @@
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\bin\Debug\net6.0\Tast3.exe
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\bin\Debug\net6.0\Tast3.deps.json
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\bin\Debug\net6.0\Tast3.runtimeconfig.json
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\bin\Debug\net6.0\Tast3.dll
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\bin\Debug\net6.0\Tast3.pdb
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.csproj.AssemblyReference.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.AssemblyInfoInputs.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.AssemblyInfo.cs
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.csproj.CoreCompileInputs.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.dll
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\refint\Tast3.dll
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.pdb
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\Tast3.genruntimeconfig.cache
+C:\Users\nshoh\Desktop\Сsharp\EXAM 1\Task3\obj\Debug\net6.0\ref\Tast3.dll
